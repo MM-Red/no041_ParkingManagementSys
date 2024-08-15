@@ -2,7 +2,7 @@
 
 <p> 获取sql文件 QQ: 3645296857 QQ群: 978300347 </p>
 <b> 需要视频演示可联系上述QQ，私发视频链接 </b>
-<p> [个人站点: mzoo源码网](https://mzoocodes.com/)</p>
+<p> 获取更多高质量源码，请访问：[mzoo源码网](https://mzoocodes.com/)</p>
 
 ## 简介
 
